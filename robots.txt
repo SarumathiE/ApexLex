@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apexlex.in/sitemap.xml
